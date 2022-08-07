@@ -14,6 +14,7 @@ Clone the repo:
 git clone https://github.com/HDaniels1991/airflow_selenium.git
 ```
 
+If you don't have docker and docker compose, run the script below
 Run the setup script, this will install docker engine and compose:
 ```
 bash setup.sh
