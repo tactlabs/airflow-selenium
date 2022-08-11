@@ -11,7 +11,7 @@ ssh into the environment:
 
 Clone the repo:
 ```
-git clone https://github.com/HDaniels1991/airflow_selenium.git
+git clone git@github.com:tactlabs/airflow-selenium.git
 ```
 
 If you don't have docker and docker compose, run the script below
