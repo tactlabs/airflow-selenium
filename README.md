@@ -46,7 +46,7 @@ docker-compose up
 ```
 
 The Airflow webserver will be available at the following location:
-* {Public DNS}:8080
+* 0.0.0.0:8080
 
 ## The Selenium Plugin
 
